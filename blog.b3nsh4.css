@@ -1,3 +1,4 @@
+
 <Variable name="loraNormal20" description="Item body font" type="font" default="400 20px Lora, serif" hideEditor="true"  value="400 20px Lora, serif"/>
 <Variable name="openSansNormal14" description="Small-size normal-weight font (eg: labels, subscribe popup email)" type="font" default="400 14px Open Sans, sans-serif" hideEditor="true"  value="400 14px Open Sans, sans-serif"/>
 <Variable name="openSansNormal16" description="Medium-size normal-weight font (eg: sidebar titles)" type="font" default="400 16px Open Sans, sans-serif" hideEditor="true"  value="400 16px Open Sans, sans-serif"/>
@@ -2872,4 +2873,3 @@ width:100%
 padding-right:$(sidebar.width)
 }
 }
-
