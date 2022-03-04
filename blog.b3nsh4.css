@@ -2554,6 +2554,7 @@ font-size:24px
 }
 .post-outer .snippet-thumbnail{
 width:100%;
+display:none;
 height:calc((100vw - 48px) * 2 / 3)
 }
 body.item-view .Blog .post-title-container{
