@@ -1878,6 +1878,7 @@ font:normal normal 25px 'Courier New', Courier, FreeMono, monospace;
 line-height:2
 }
 body.item-view .Blog .post-body-container{
+padding-right: 0px;
 position:relative;
 margin-left:140px;
 margin-top:20px;
