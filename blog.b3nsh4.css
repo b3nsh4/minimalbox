@@ -1656,7 +1656,7 @@ display:flex;
 -webkit-flex:0 0 auto;
 -ms-flex:0 0 auto;
 flex:0 0 auto;
-height:256px;
+height:0px;
 -webkit-box-pack:center;
 -webkit-justify-content:center;
 -ms-flex-pack:center;
