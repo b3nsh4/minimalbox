@@ -1643,42 +1643,13 @@ display:flex;
 position:relative
 }
 .post-outer .snippet-thumbnail{
--webkit-box-align:center;
--webkit-align-items:center;
--ms-flex-align:center;
-align-items:center;
-background:#000;
-display:-webkit-box;
-display:-webkit-flex;
-display:-ms-flexbox;
-display:flex;
--webkit-box-flex:0;
--webkit-flex:0 0 auto;
--ms-flex:0 0 auto;
-flex:0 0 auto;
-height:0px;
--webkit-box-pack:center;
--webkit-justify-content:center;
--ms-flex-pack:center;
-justify-content:center;
-margin-right:136px;
-overflow:hidden;
--webkit-box-ordinal-group:3;
--webkit-order:2;
--ms-flex-order:2;
-order:2;
-position:relative;
-width:256px
+background:0 0
 }
 .post-outer .thumbnail-empty{
 background:0 0
 }
 .post-outer .snippet-thumbnail-img{
-background-position:center;
-background-repeat:no-repeat;
-background-size:cover;
-width:100%;
-height:100%
+background:0 0
 }
 .post-outer .snippet-thumbnail img{
 max-height:100%
