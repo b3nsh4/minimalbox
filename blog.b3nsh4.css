@@ -2562,7 +2562,7 @@ body.item-view .Blog .post-header-container{
 padding-left:24px
 }
 body.item-view .Blog .post-body-container,body.item-view .PopularPosts,body.item-view .comments,body.item-view .post-outer-container>.shown-ad,body.item-view .widget.Blog .post-bottom{
-margin:32px 24px;
+margin:0px 0px;
 padding:0
 }
 .FeaturedPost h3,body.feed-view .blog-posts,body.feed-view .feed-message{
