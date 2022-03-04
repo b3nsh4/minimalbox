@@ -2448,7 +2448,7 @@ margin:0
 .post-outer .snippet-thumbnail{
 width:920px;
 height:613.3333333333px;
-visibility:none;
+visibility:hidden;
 margin-bottom:16px
 }
 .post-outer .snippet-thumbnail.thumbnail-empty{
