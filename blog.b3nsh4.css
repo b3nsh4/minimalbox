@@ -2425,6 +2425,7 @@ max-width:920px
 }
 .centered-top{
 padding:0;
+float:left;
 max-width:920px
 }
 .Blog{
